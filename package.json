@@ -1,0 +1,11 @@
+{
+  "name": "backend-developent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server1.js",
+  "scripts": {
+    "start": "node server1.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
