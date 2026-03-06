@@ -1,11 +1,19 @@
 {
   "name": "backend-developent",
   "version": "1.0.0",
-  "description": "",
+  "description": "a backend development project",
+  "type": "module",
   "main": "server1.js",
   "scripts": {
-    "start": "node server1.js"
+    "dev": "nodemon src/index.js"
   },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
